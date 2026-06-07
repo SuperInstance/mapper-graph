@@ -1,0 +1,9 @@
+[package]
+name = "mapper-graph"
+version = "0.1.0"
+edition = "2021"
+description = "Mapper algorithm from Topological Data Analysis: build a mapper graph from point clouds via filter functions, covers, and clustering"
+license = "MIT"
+repository = "https://github.com/SuperInstance/mapper-graph"
+
+[dependencies]
